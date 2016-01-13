@@ -14,3 +14,5 @@ Second major issue I encountered was, you really should solder the header pins o
 * [Stepper motor wiring tutorial | 42 Bots](http://42bots.com/tutorials/stepper-motor-wiring-how-to/)
 
 * [28BYJ-48 Stepper Motor with ULN2003 driver and Arduino Uno | 42 Bots](http://42bots.com/tutorials/28byj-48-stepper-motor-with-uln2003-driver-and-arduino-uno/) 
+
+* [AccelStepper: AccelStepper library for Arduino](http://www.airspayce.com/mikem/arduino/AccelStepper/)
