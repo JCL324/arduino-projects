@@ -20,3 +20,4 @@ At this point we can write our own firmware and upload it. To get started we can
 
 * [Get Started with ESP8266 Using AT Commands, NodeMCU, or Arduino (ESP-12E) - All](http://www.instructables.com/id/Get-Started-with-ESP8266-Using-AT-Commands-NodeMCU/)
 
+* [ESP8266 Quick Start Guide](http://benlo.com/esp8266/esp8266QuickStart.html)
