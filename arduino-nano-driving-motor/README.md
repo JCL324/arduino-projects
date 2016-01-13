@@ -11,4 +11,6 @@ Second major issue I encountered was, you really should solder the header pins o
 
 * [How to use cheap Chinese Arduinos that come with with CH340G / CH341G Serial/USB chip (Windows & Mac OS-X) · Personal blog by Konstantin Gredeskoul](http://kiguino.moos.io/2014/12/31/how-to-use-arduino-nano-mini-pro-with-CH340G-on-mac-osx-yosemite.html)
 
-* [Stepper motor wiring tutorial | 42 Bots](http://42bots.com/tutorials/stepper-motor-wiring-how-to/)
+* [Stepper motor wiring tutorial | 42 Bots](http://42bots.com/tutorials/stepper-motor-wiring-how-to/)
+
+* [28BYJ-48 Stepper Motor with ULN2003 driver and Arduino Uno | 42 Bots](http://42bots.com/tutorials/28byj-48-stepper-motor-with-uln2003-driver-and-arduino-uno/) 
