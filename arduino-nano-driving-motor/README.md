@@ -10,6 +10,8 @@ Second major issue I encountered was, you really should solder the header pins o
 # Links
 * [ATmega328P Nano V3 Controller Board Compatible Arduino Improved Version - US$2.99](http://www.banggood.com/ATmega328P-Nano-V3-Controller-Board-Compatible-Arduino-p-940937.html)
 
+* [Arduino.cc - ArduinoBoardNano](https://www.arduino.cc/en/Main/ArduinoBoardNano)
+
 * [How to use cheap Chinese Arduinos that come with with CH340G / CH341G Serial/USB chip (Windows & Mac OS-X) · Personal blog by Konstantin Gredeskoul](http://kiguino.moos.io/2014/12/31/how-to-use-arduino-nano-mini-pro-with-CH340G-on-mac-osx-yosemite.html)
 
 * [Stepper motor wiring tutorial | 42 Bots](http://42bots.com/tutorials/stepper-motor-wiring-how-to/)
